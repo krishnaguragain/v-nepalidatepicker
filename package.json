@@ -34,6 +34,7 @@
     "vue nepali"
   ],
   "dependencies": {
+    "core-js": "^3.21.1",
     "nepali-date": "^0.1.3"
   },
   "devDependencies": {
